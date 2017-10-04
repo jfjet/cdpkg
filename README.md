@@ -1,4 +1,4 @@
-# Demo of Continuous Deployment application entry using CRUD repository
+# Demo of Continuous Deployment application entry packaging using CRUD repository
 CRUD repository demo with app packaging
 
 ### To run
