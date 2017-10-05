@@ -1,8 +1,12 @@
 # Demo of Continuous Deployment application entry packaging using CRUD repository
 CRUD repository demo with app packaging
 
-### To run
+### To run previously built jar
+```sh
+java -jar .\target\cdpkg-0.0.1-SNAPSHOT.jar
+```
 
+### Maven build from source then run
 ```sh
 $ mvn spring-boot:run
 ```
