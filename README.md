@@ -3,7 +3,7 @@ CRUD repository demo with app packaging
 
 ### To run previously built jar
 ```sh
-java -jar .\target\cdpkg-0.0.1-SNAPSHOT.jar
+java -jar ./target/cdpkg-0.0.1-SNAPSHOT.jar
 ```
 
 ### Maven build from source then run
